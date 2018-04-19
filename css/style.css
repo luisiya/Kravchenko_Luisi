@@ -6,7 +6,8 @@
 .projects img{
   border:solid teal 4px;
   box-shadow:2px 2px 10px teal;
-  filter:hue-rotate(180deg);
+    filter: grayscale(100%);
+  /*filter:hue-rotate(180deg);*/
 }
 
 .projects img:hover{
